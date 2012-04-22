@@ -1,0 +1,1 @@
+BumbleBee2:calibration/stereo/Bumblebee2_Chess/stereo.xml:calibration/stereo/Bumblebee2_Chess/left01.jpg:calibration/stereo/Bumblebee2_Chess/right01.jpg
