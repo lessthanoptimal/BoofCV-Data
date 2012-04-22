@@ -1,3 +1,3 @@
-indoors:MJPEG:lines_indoors.mjpeg
+indoors:lines_indoors.mjpeg
 
 

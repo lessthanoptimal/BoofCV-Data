@@ -1,0 +1,14 @@
+infoFile = calibration/mono/Sony_DSC-HX5V_Chess/info.txt
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame01.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame02.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame03.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame04.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame05.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame06.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame07.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame08.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame09.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame10.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame11.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame12.jpg
+addImage = calibration/mono/Sony_DSC-HX5V_Chess/frame13.jpg

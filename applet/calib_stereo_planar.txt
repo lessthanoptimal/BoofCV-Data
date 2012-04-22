@@ -1,0 +1,24 @@
+infoFile = calibration/stereo/Bumblebee2_Chess/info.txt
+addLeft = calibration/stereo/Bumblebee2_Chess/left01.jpg
+addLeft = calibration/stereo/Bumblebee2_Chess/left02.jpg
+addLeft = calibration/stereo/Bumblebee2_Chess/left03.jpg
+addLeft = calibration/stereo/Bumblebee2_Chess/left04.jpg
+addLeft = calibration/stereo/Bumblebee2_Chess/left05.jpg
+addLeft = calibration/stereo/Bumblebee2_Chess/left06.jpg
+addLeft = calibration/stereo/Bumblebee2_Chess/left07.jpg
+addLeft = calibration/stereo/Bumblebee2_Chess/left08.jpg
+addLeft = calibration/stereo/Bumblebee2_Chess/left09.jpg
+addLeft = calibration/stereo/Bumblebee2_Chess/left10.jpg
+addLeft = calibration/stereo/Bumblebee2_Chess/left11.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right01.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right02.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right03.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right04.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right05.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right06.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right07.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right08.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right09.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right10.jpg
+addRight = calibration/stereo/Bumblebee2_Chess/right11.jpg
+

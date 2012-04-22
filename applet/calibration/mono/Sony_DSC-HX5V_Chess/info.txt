@@ -1,0 +1,2 @@
+# (type) (left handed) (num columns) (num rows) (square width in mm )
+chess true 3 4 33
