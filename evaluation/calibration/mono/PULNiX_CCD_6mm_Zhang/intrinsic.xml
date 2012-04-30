@@ -2,16 +2,16 @@
 <java version="1.6.0_30" class="java.beans.XMLDecoder"> 
  <object class="boofcv.struct.calib.IntrinsicParameters"> 
   <void property="cx"> 
-   <double>308.39022218627844</double> 
+   <double>304.1021940660527</double> 
   </void> 
   <void property="cy"> 
-   <double>232.37415552585853</double> 
+   <double>272.90519006425814</double> 
   </void> 
   <void property="fx"> 
-   <double>701.5817160381599</double> 
+   <double>833.3675626064419</double> 
   </void> 
   <void property="fy"> 
-   <double>699.2512709034702</double> 
+   <double>833.4568314306872</double> 
   </void> 
   <void property="height"> 
    <int>480</int> 
@@ -22,10 +22,10 @@
   <void property="radial"> 
    <array class="double" length="2"> 
     <void index="0"> 
-     <double>-0.2536637263638257</double> 
+     <double>-0.23428852701316796</double> 
     </void> 
     <void index="1"> 
-     <double>0.09581396887246645</double> 
+     <double>0.2077907538947832</double> 
     </void> 
    </array> 
   </void> 
