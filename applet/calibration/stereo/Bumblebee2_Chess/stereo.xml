@@ -4,30 +4,27 @@
   <void property="left"> 
    <object class="boofcv.struct.calib.IntrinsicParameters"> 
     <void property="cx"> 
-     <double>312.3907313631183</double> 
+     <double>312.39069001990765</double> 
     </void> 
     <void property="cy"> 
-     <double>231.71606236993483</double> 
+     <double>247.2839211702582</double> 
     </void> 
     <void property="fx"> 
-     <double>524.6221415885141</double> 
+     <double>524.6221502663824</double> 
     </void> 
     <void property="fy"> 
-     <double>526.8959570218826</double> 
+     <double>526.8959641987253</double> 
     </void> 
     <void property="height"> 
      <int>480</int> 
     </void> 
-    <void property="leftHanded"> 
-     <boolean>true</boolean> 
-    </void> 
     <void property="radial"> 
      <array class="double" length="2"> 
       <void index="0"> 
-       <double>-0.3627481438495127</double> 
+       <double>-0.3627481399578612</double> 
       </void> 
       <void index="1"> 
-       <double>0.17527067004096297</double> 
+       <double>0.175270714546243</double> 
       </void> 
      </array> 
     </void> 
@@ -39,30 +36,27 @@
   <void property="right"> 
    <object class="boofcv.struct.calib.IntrinsicParameters"> 
     <void property="cx"> 
-     <double>318.38881635885247</double> 
+     <double>318.38881066889167</double> 
     </void> 
     <void property="cy"> 
-     <double>232.89235381872038</double> 
+     <double>246.10771944648482</double> 
     </void> 
     <void property="fx"> 
-     <double>526.3970637345301</double> 
+     <double>526.3970611229234</double> 
     </void> 
     <void property="fy"> 
-     <double>528.6138263523004</double> 
+     <double>528.6138232087782</double> 
     </void> 
     <void property="height"> 
      <int>480</int> 
     </void> 
-    <void property="leftHanded"> 
-     <boolean>true</boolean> 
-    </void> 
     <void property="radial"> 
      <array class="double" length="2"> 
       <void index="0"> 
-       <double>-0.35336285148200364</double> 
+       <double>-0.35336290042630514</double> 
       </void> 
       <void index="1"> 
-       <double>0.16350161327954854</double> 
+       <double>0.16350170380471674</double> 
       </void> 
      </array> 
     </void> 
@@ -76,43 +70,43 @@
     <void property="r"> 
      <void property="data"> 
       <void index="0"> 
-       <double>0.9999681136358712</double> 
+       <double>0.9999681132110043</double> 
       </void> 
       <void index="1"> 
-       <double>0.002159439712263858</double> 
+       <double>-0.002159436140803328</double> 
       </void> 
       <void index="2"> 
-       <double>0.007688207310296485</double> 
+       <double>0.007688263573662479</double> 
       </void> 
       <void index="3"> 
-       <double>-0.002131157161893063</double> 
+       <double>0.002131152100772485</double> 
       </void> 
       <void index="4"> 
-       <double>0.9999909394810488</double> 
+       <double>0.9999909388774484</double> 
       </void> 
       <void index="5"> 
-       <double>-0.0036849864260927734</double> 
+       <double>0.003685153148126008</double> 
       </void> 
       <void index="6"> 
-       <double>-0.007696095157176119</double> 
+       <double>-0.00769615176225652</double> 
       </void> 
       <void index="7"> 
-       <double>0.0036684841472025553</double> 
+       <double>-0.00366865078135864</double> 
       </void> 
       <void index="8"> 
-       <double>0.9999636555112357</double> 
+       <double>0.99996365446425</double> 
       </void> 
      </void> 
     </void> 
     <void property="t"> 
      <void property="x"> 
-      <double>120.00383714930251</double> 
+      <double>120.00384197947756</double> 
      </void> 
      <void property="y"> 
-      <double>-0.8688830443174229</double> 
+      <double>0.8688852783418195</double> 
      </void> 
      <void property="z"> 
-      <double>-0.9028606285513661</double> 
+      <double>-0.9028588229567163</double> 
      </void> 
     </void> 
    </object> 

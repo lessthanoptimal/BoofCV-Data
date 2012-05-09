@@ -1,0 +1,2 @@
+Uncalibrated and unrectified stereo images from a BumbleBee2 stereo camera.
+Calibration parameters can be found in the calibration directory.

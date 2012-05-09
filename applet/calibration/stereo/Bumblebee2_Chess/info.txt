@@ -1,2 +1,2 @@
-# (type) (left handed) (num columns) (num rows) (square width in mm )
-chess true 3 4 30
+# (type) (zero skew) (invert y) (num columns) (num rows) (square width in mm )
+chess true false 3 4 30
