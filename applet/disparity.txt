@@ -1,5 +1,5 @@
 Chair:calibration/stereo/Bumblebee2_Chess/stereo.xml:stereo/chair01_left.jpg:stereo/chair01_right.jpg
-Garden:calibration/stereo/Bumblebee2_Chess/stereo.xml:stereo/garden02_left.jpg:stereo/garden02_right.jpg
+Sundial:calibration/stereo/Bumblebee2_Chess/stereo.xml:stereo/sundial01_left.jpg:stereo/sundial01_right.jpg
 Stones:calibration/stereo/Bumblebee2_Chess/stereo.xml:stereo/stones01_left.jpg:stereo/stones01_right.jpg
 Lantern:calibration/stereo/Bumblebee2_Chess/stereo.xml:stereo/lantern01_left.jpg:stereo/lantern01_right.jpg
 Wall:calibration/stereo/Bumblebee2_Chess/stereo.xml:stereo/wall01_left.jpg:stereo/wall01_right.jpg
