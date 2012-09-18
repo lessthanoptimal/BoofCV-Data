@@ -1,5 +1,3 @@
 plains:mosaic/airplane01.mjpeg
 mountain:mosaic/airplane02.mjpeg
 shake:shake.mjpeg
-
-

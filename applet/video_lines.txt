@@ -1,3 +1,1 @@
 indoors:lines_indoors.mjpeg
-
-
