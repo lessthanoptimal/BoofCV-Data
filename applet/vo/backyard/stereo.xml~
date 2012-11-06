@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_30" class="java.beans.XMLDecoder"> 
+ <object class="boofcv.struct.calib.StereoParameters"> 
+  <void property="left"> 
+   <object class="boofcv.struct.calib.IntrinsicParameters"> 
+    <void property="cx"> 
+     <double>156.19534500995383</double> 
+    </void> 
+    <void property="cy"> 
+     <double>123.6419605851291</double> 
+    </void> 
+    <void property="fx"> 
+     <double>262.3110751331912</double> 
+    </void> 
+    <void property="fy"> 
+     <double>263.44798209936266</double> 
+    </void> 
+    <void property="height"> 
+     <int>480</int> 
+    </void> 
+    <void property="radial"> 
+     <array class="double" length="2"> 
+      <void index="0"> 
+       <double>-0.3627481399578612</double> 
+      </void> 
+      <void index="1"> 
+       <double>0.175270714546243</double> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="width"> 
+     <int>640</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="right"> 
+   <object class="boofcv.struct.calib.IntrinsicParameters"> 
+    <void property="cx"> 
+     <double>159.19440533444583</double> 
+    </void> 
+    <void property="cy"> 
+     <double>123.05385972324241</double> 
+    </void> 
+    <void property="fx"> 
+     <double>263.1985305614617</double> 
+    </void> 
+    <void property="fy"> 
+     <double>264.3069116043891</double> 
+    </void> 
+    <void property="height"> 
+     <int>480</int> 
+    </void> 
+    <void property="radial"> 
+     <array class="double" length="2"> 
+      <void index="0"> 
+       <double>-0.35336290042630514</double> 
+      </void> 
+      <void index="1"> 
+       <double>0.16350170380471674</double> 
+      </void> 
+     </array> 
+    </void> 
+    <void property="width"> 
+     <int>640</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rightToLeft"> 
+   <object class="georegression.struct.se.Se3_F64"> 
+    <void property="r"> 
+     <void property="data"> 
+      <void index="0"> 
+       <double>0.9999681132110043</double> 
+      </void> 
+      <void index="1"> 
+       <double>-0.002159436140803328</double> 
+      </void> 
+      <void index="2"> 
+       <double>0.007688263573662479</double> 
+      </void> 
+      <void index="3"> 
+       <double>0.002131152100772485</double> 
+      </void> 
+      <void index="4"> 
+       <double>0.9999909388774484</double> 
+      </void> 
+      <void index="5"> 
+       <double>0.003685153148126008</double> 
+      </void> 
+      <void index="6"> 
+       <double>-0.00769615176225652</double> 
+      </void> 
+      <void index="7"> 
+       <double>-0.00366865078135864</double> 
+      </void> 
+      <void index="8"> 
+       <double>0.99996365446425</double> 
+      </void> 
+     </void> 
+    </void> 
+    <void property="t"> 
+     <void property="x"> 
+      <double>0.12000384197947755</double> 
+     </void> 
+     <void property="y"> 
+      <double>8.688852783418195E-4</double> 
+     </void> 
+     <void property="z"> 
+      <double>-9.028588229567163E-4</double> 
+     </void> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 
