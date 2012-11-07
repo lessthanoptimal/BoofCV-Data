@@ -1,4 +1,3 @@
 shake:shake.mjpeg
 zoom:zoom.mjpeg
 rotate:rotate.mjpeg
-
