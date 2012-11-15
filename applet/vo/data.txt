@@ -1,2 +1,3 @@
+Inside:library/config.txt
 Outdoors:backyard/config.txt
 Urban:rockville/config.txt
