@@ -1,2 +1,2 @@
 # (type) (zero skew) (invert y) (num columns) (num rows) (square width in mm ) (spacing in mm)
-square true false 3 4 30 30
+square true false 5 7 30 30
