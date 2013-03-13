@@ -1,33 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<java version="1.6.0_30" class="java.beans.XMLDecoder"> 
- <object class="boofcv.struct.calib.IntrinsicParameters"> 
-  <void property="cx"> 
-   <double>303.22127310464896</double> 
-  </void> 
-  <void property="cy"> 
-   <double>205.6178358490483</double> 
-  </void> 
-  <void property="fx"> 
-   <double>833.7745150603582</double> 
-  </void> 
-  <void property="fy"> 
-   <double>833.91394701593</double> 
-  </void> 
-  <void property="height"> 
-   <int>480</int> 
-  </void> 
-  <void property="radial"> 
-   <array class="double" length="2"> 
-    <void index="0"> 
-     <double>-0.23395987996845607</double> 
-    </void> 
-    <void index="1"> 
-     <double>0.1936342561635542</double> 
-    </void> 
-   </array> 
-  </void> 
-  <void property="width"> 
-   <int>640</int> 
-  </void> 
- </object> 
-</java> 
+<boofcv.struct.calib.IntrinsicParameters>
+  <width>640</width>
+  <height>480</height>
+  <flipY>false</flipY>
+  <fx>834.1699021983013</fx>
+  <fy>834.2747677692194</fy>
+  <skew>0.0</skew>
+  <cx>303.07114194557005</cx>
+  <cy>205.60504818473885</cy>
+  <radial>
+    <double>-0.23439854914045533</double>
+    <double>0.19611084745853116</double>
+  </radial>
+</boofcv.struct.calib.IntrinsicParameters>
