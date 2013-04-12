@@ -1,52 +1,52 @@
 <boofcv.struct.calib.StereoParameters>
   <left>
-    <width>640</width>
-    <height>480</height>
+    <cx>315.0852180764752</cx>
+    <cy>246.35982216111742</cy>
     <flipY>false</flipY>
-    <fx>528.8893265006953</fx>
-    <fy>530.8594624601269</fy>
-    <skew>0.0</skew>
-    <cx>315.1076753879226</cx>
-    <cy>246.31762779131267</cy>
+    <fx>528.87672569256</fx>
+    <fy>530.8466910372916</fy>
+    <height>480</height>
     <radial>
-      <double>-0.37260468283501047</double>
-      <double>0.1872038477497753</double>
+      <double>-0.37254410090557233</double>
+      <double>0.18705071147011798</double>
     </radial>
+    <skew>0.0</skew>
+    <width>640</width>
   </left>
   <right>
-    <width>640</width>
-    <height>480</height>
+    <cx>317.2440909229602</cx>
+    <cy>248.82455800656274</cy>
     <flipY>false</flipY>
-    <fx>530.9278791651238</fx>
-    <fy>532.3392533285057</fy>
-    <skew>0.0</skew>
-    <cx>317.23339847978735</cx>
-    <cy>248.8128580198108</cy>
+    <fx>530.9213064266481</fx>
+    <fy>532.3277937669744</fy>
+    <height>480</height>
     <radial>
-      <double>-0.3558243442047513</double>
-      <double>0.14638889798322352</double>
+      <double>-0.3557811350167552</double>
+      <double>0.14639363021993784</double>
     </radial>
+    <skew>0.0</skew>
+    <width>640</width>
   </right>
   <rightToLeft>
-    <R>
-      <numRows>3</numRows>
-      <numCols>3</numCols>
+    <r>
       <data>
-        <double>0.9999979161770232</double>
-        <double>-0.0014147606297839612</double>
-        <double>0.0014717655966749905</double>
-        <double>0.0014011235268257946</double>
-        <double>0.9999564584893688</double>
-        <double>0.009225940508268388</double>
-        <double>-0.001484754011181557</double>
-        <double>-0.009223859157638015</double>
-        <double>0.999956357011528</double>
+        <double>0.9999978567966864</double>
+        <double>-0.001406550187097651</double>
+        <double>0.0015192164440218196</double>
+        <double>0.0013925376144429376</double>
+        <double>0.9999568422332614</double>
+        <double>0.009185559856384473</double>
+        <double>-0.0015320708289676133</double>
+        <double>-0.00918342460381888</double>
+        <double>0.9999566577964875</double>
       </data>
-    </R>
-    <T>
-      <x>119.50091075812821</x>
-      <y>1.4119089958276136</y>
-      <z>-0.23627211994664776</z>
-    </T>
+      <numCols>3</numCols>
+      <numRows>3</numRows>
+    </r>
+    <t>
+      <x>119.50703866792921</x>
+      <y>1.404054284793545</y>
+      <z>-0.24208266498715147</z>
+    </t>
   </rightToLeft>
 </boofcv.struct.calib.StereoParameters>

@@ -1,36 +1,34 @@
 <boofcv.struct.calib.StereoParameters>
   <left>
-    <width>640</width>
-    <height>480</height>
+    <cx>312.4508572809385</cx>
+    <cy>247.40163214599613</cy>
     <flipY>false</flipY>
     <fx>524.6141554796689</fx>
     <fy>526.9202267407102</fy>
-    <skew>0.0</skew>
-    <cx>312.4508572809385</cx>
-    <cy>247.40163214599613</cy>
+    <height>480</height>
     <radial>
       <double>-0.3625365821238732</double>
       <double>0.17532754393079863</double>
     </radial>
+    <skew>0.0</skew>
+    <width>640</width>
   </left>
   <right>
-    <width>640</width>
-    <height>480</height>
+    <cx>318.40405668073225</cx>
+    <cy>245.93504188705572</cy>
     <flipY>false</flipY>
     <fx>526.437309515818</fx>
     <fy>528.6524795626539</fy>
-    <skew>0.0</skew>
-    <cx>318.40405668073225</cx>
-    <cy>245.93504188705572</cy>
+    <height>480</height>
     <radial>
       <double>-0.35299970494414057</double>
       <double>0.16297446727663975</double>
     </radial>
+    <skew>0.0</skew>
+    <width>640</width>
   </right>
   <rightToLeft>
-    <R>
-      <numRows>3</numRows>
-      <numCols>3</numCols>
+    <r>
       <data>
         <double>0.9999694757041413</double>
         <double>-0.002167658916924345</double>
@@ -42,11 +40,13 @@
         <double>-0.003040913011953583</double>
         <double>0.999967152054033</double>
       </data>
-    </R>
-    <T>
+      <numCols>3</numCols>
+      <numRows>3</numRows>
+    </r>
+    <t>
       <x>120.04374261980637</x>
       <y>0.8974418603859871</y>
       <z>-0.9149583203134171</z>
-    </T>
+    </t>
   </rightToLeft>
 </boofcv.struct.calib.StereoParameters>
