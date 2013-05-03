@@ -1,0 +1,18 @@
+<boofcv.struct.calib.VisualDepthParameters>
+  <maxDepth class="int">10000</maxDepth>
+  <pixelNoDepth class="int">0</pixelNoDepth>
+  <visualParam>
+    <cx>312.57382117058427</cx>
+    <cy>257.05061008728114</cy>
+    <flipY>false</flipY>
+    <fx>529.74137370586</fx>
+    <fy>529.5715453060717</fy>
+    <height>480</height>
+    <radial>
+      <double>0.17889353480851655</double>
+      <double>-0.32301207366192053</double>
+    </radial>
+    <skew>0.0</skew>
+    <width>640</width>
+  </visualParam>
+</boofcv.struct.calib.VisualDepthParameters>
