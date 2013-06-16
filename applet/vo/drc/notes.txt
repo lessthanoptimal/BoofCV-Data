@@ -1,0 +1,1 @@
+Created using Gazebo simulator during the Darpa Robotics Challenge (DRC) June 2013.  The ground plane was estimated using stereo vision and is not going to be perfect.
