@@ -1,4 +1,0 @@
-Snow Car:snow_follow_car
-Book:track_book
-Face:track_peter
-Chipmunk:chipmunk
