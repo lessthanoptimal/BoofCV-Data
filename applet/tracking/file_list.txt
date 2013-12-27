@@ -1,8 +1,8 @@
-WildCat:tracking/wildcat_robot.mjpeg
-Tree:tracking/tree.mjpeg
-Book:tracking/track_book.mjpeg
-Face:tracking/track_peter.mjpeg
-Chipmunk:tracking/chipmunk.mjpeg
-Balls:tracking/balls_blue_red.mjpeg
-Driving Snow:tracking/snow_follow_car.mjpeg
-Driving Night:tracking/night_follow_car.mjpeg
+WildCat:wildcat_robot.mjpeg
+Tree:tree.mjpeg
+Book:track_book.mjpeg
+Face:track_peter.mjpeg
+Chipmunk:chipmunk.mjpeg
+Balls:balls_blue_red.mjpeg
+Driving Snow:snow_follow_car.mjpeg
+Driving Night:night_follow_car.mjpeg
