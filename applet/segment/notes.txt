@@ -1,0 +1,4 @@
+some images are from a Berkley dataset:
+https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
+
+mountain_pines_people.jpg was taken by Peter Abeles
