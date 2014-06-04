@@ -28,7 +28,7 @@
     <width>320</width>
   </right>
   <rightToLeft>
-    <R>
+    <r>
       <data>
         <double>0.9999694757041413</double>
         <double>-0.002167658916924345</double>
@@ -42,11 +42,11 @@
       </data>
       <numCols>3</numCols>
       <numRows>3</numRows>
-    </R>
-    <T>
+    </r>
+    <t>
       <x>0.12004374261980637</x>
       <y>8.974418603859871E-4</y>
       <z>-9.149583203134171E-4</z>
-    </T>
+    </t>
   </rightToLeft>
 </boofcv.struct.calib.StereoParameters>
