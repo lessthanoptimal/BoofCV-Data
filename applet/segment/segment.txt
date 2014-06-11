@@ -1,0 +1,4 @@
+Horses:berkeley_horses.jpg
+Kangaroo:berkeley_kangaroo.jpg
+Man:segment/berkeley_man.jpg
+Pines People:mountain_pines_people.jpg
