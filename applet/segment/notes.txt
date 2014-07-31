@@ -1,4 +1,7 @@
 some images are from a Berkley dataset:
 https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
 
+stained_handwriting.jpg is from DIBCO2009
+http://users.iit.demokritos.gr/~bgat/DIBCO2009/
+
 mountain_pines_people.jpg was taken by Peter Abeles
