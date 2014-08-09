@@ -1,0 +1,3 @@
+Webcam Logitech 640x480
+Target Width = 10cm
+#643 #284
