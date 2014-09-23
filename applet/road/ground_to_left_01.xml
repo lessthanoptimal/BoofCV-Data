@@ -1,5 +1,5 @@
 <georegression.struct.se.Se3__F64>
-  <r>
+  <rotation>
     <numRows>3</numRows>
     <numCols>3</numCols>
     <data>
@@ -13,10 +13,10 @@
       <double>-0.05192843868968583</double>
       <double>0.9986508084687318</double>
     </data>
-  </r>
-  <t>
+  </rotation>
+  <translation>
     <x>-0.00689862489118314</x>
     <y>1.8112025654353798</y>
     <z>-0.09417998821632924</z>
-  </t>
+  </translation>
 </georegression.struct.se.Se3__F64>

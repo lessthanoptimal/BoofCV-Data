@@ -22,7 +22,7 @@
     <width>800</width>
   </right>
   <rightToLeft>
-    <r>
+    <rotation>
       <data>
         <double>1.0</double>
         <double>0.0</double>
@@ -36,11 +36,11 @@
       </data>
       <numCols>3</numCols>
       <numRows>3</numRows>
-    </r>
-    <t>
+    </rotation>
+    <translation>
       <x>0.07</x>
       <y>0.0</y>
       <z>0.0</z>
-    </t>
+    </translation>
   </rightToLeft>
 </boofcv.struct.calib.StereoParameters>
