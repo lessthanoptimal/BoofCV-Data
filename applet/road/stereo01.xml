@@ -2,7 +2,6 @@
   <left>
     <cx>400.0</cx>
     <cy>400.0</cy>
-    <flipY>false</flipY>
     <fx>476.7016296386719</fx>
     <fy>476.7016296386719</fy>
     <height>800</height>
@@ -13,7 +12,6 @@
   <right>
     <cx>400.0</cx>
     <cy>400.0</cy>
-    <flipY>false</flipY>
     <fx>476.7016296386719</fx>
     <fy>476.7016296386719</fy>
     <height>800</height>
