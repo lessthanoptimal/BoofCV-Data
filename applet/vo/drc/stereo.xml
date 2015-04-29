@@ -2,7 +2,6 @@
   <left>
     <width>400</width>
     <height>400</height>
-    <flipY>false</flipY>
     <fx>238.35081481933594</fx>
     <fy>238.35081481933594</fy>
     <skew>0.0</skew>
@@ -13,7 +12,6 @@
   <right>
     <width>400</width>
     <height>400</height>
-    <flipY>false</flipY>
     <fx>238.35081481933594</fx>
     <fy>238.35081481933594</fy>
     <skew>0.0</skew>

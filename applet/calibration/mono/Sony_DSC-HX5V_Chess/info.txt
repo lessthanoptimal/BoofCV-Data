@@ -1,2 +1,2 @@
-# (type) (num radial) (include tangential) (zero skew) (invert Y) (num columns) (num rows) (square width in mm )
-chess 2 false true false 5 7 30
+# (type) (num radial) (include tangential) (zero skew) (num columns) (num rows) (square width in mm )
+chess 2 false true 5 7 30
