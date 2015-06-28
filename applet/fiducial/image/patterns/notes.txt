@@ -1,0 +1,17 @@
+Webcam Logitech 640x480
+Target Width = 10cm
+
+
+----
+
+Image Sources:
+
+Unless specified below it was generated as part of the BoofCV project.
+
+http://all-free-download.com
+    Free for non comerical use
+- leaf01.png
+- leaf02.png
+- hand01.png
+- chicken.png
+
