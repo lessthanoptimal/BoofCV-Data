@@ -1,0 +1,6 @@
+
+## Grid Document
+
+
+
+java -cp applications.jar boofcv.app.CreateFiducialSquareBinaryEPS -Grid=fill -PrintInfo -WhiteBorder=1 -PageSize=letter 4 861 2233 1116 4095 2978 3350 372 3722 2605 0 744 1489
