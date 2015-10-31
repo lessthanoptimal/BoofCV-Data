@@ -1,0 +1,5 @@
+
+
+Documents Generated:
+
+java -jar applications.jar CreateFiducialSquareBinary -Grid=fill -WhiteBorder=1 -PageSize=letter -PrintInfo -BinaryGridWidth=3 4 9 10 11 6 7 8 3 4 5 0 1 2

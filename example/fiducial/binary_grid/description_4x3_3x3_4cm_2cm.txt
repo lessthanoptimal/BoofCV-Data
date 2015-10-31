@@ -1,0 +1,6 @@
+# Description of a binary grid calibration target
+binary_width 3
+grid_shape 4 3
+square_width 40
+space_width 20
+numbers 0 1 2 3 4 5 6 7 8 9 10 11
