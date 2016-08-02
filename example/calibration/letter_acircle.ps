@@ -1,5 +1,5 @@
-%!PS-Adobe-3.0
-%%Title: Letter - Asymmetric Circle Grid - 7x5 - 1cm Circles
+%!PS
+%%Title: Letter - Asymmetric Circle Grid, 8x5, 2cm Circles
 %%Pages: 1
 /pagewidth 8.5 72 mul def
 /pageheight 10 72 mul def 
@@ -7,31 +7,30 @@
 % ----- Define centimeter
 /cm {28.346 mul} def
 % ----- square width
-/w {3 cm} def
-/ww {w 2 mul} def
-/r {w 2 div} def
-/a {1 cm} def
+/w {6 cm} def
+/d {3 cm} def
+/r {1 cm} def
 % ----- Define procedure for drawing a box
-/circle {a 0 360 arc closepath} def
+/circle {r 0 360 arc closepath} def
 
 % take in account the size of a square
 /owidth pagewidth def
 /oheight pageheight def
-/pagewidth pagewidth ww div floor ww mul def
-/pageheight pageheight ww div floor ww mul def
-/offw owidth pagewidth sub r add def
-/offh oheight pageheight sub w add def
+/pagewidth pagewidth w div floor w mul def
+/pageheight pageheight w div floor w mul def
+/offw owidth pagewidth sub 2 div d add def
+/offh oheight pageheight sub 2 div  def
 
 % draw all the boxes it can across a single row
-/rowboxes {ww pagewidth {y circle fill} for} def
+/rowboxes {w pagewidth {y d add circle fill} for} def
 
 % increments the y variable and draws all the rows
-offh ww pageheight { /y exch def offw rowboxes } for
-offh w add ww pageheight { /y exch def offw w add rowboxes } for
+offh w pageheight { /y exch def offw rowboxes } for
+offh d add w pageheight { /y exch def offw d add rowboxes } for
 
 /Times-Roman findfont
-7 scalefont setfont 0.5 cm 0.5 cm moveto
-(BoofCV : Asymmetric Circle Grid, 7x5, 1cm Circles) show
+7 scalefont setfont newpath 1.5 cm 1.5 cm moveto
+(BoofCV : Asymmetric Circle Grid, 8x5, 2cm Circles, 4cm space) show
 
 showpage
 
