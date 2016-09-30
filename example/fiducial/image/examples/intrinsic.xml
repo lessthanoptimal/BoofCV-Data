@@ -1,4 +1,4 @@
-<boofcv.struct.calib.IntrinsicParameters>
+<boofcv.struct.calib.PinholeRadial>
   <cx>399.0897468215553</cx>
   <cy>300.79771450921527</cy>
   <fx>565.1206663983819</fx>
@@ -8,4 +8,4 @@
   <t1>0.0</t1>
   <t2>0.0</t2>
   <width>800</width>
-</boofcv.struct.calib.IntrinsicParameters>
+</boofcv.struct.calib.PinholeRadial>
