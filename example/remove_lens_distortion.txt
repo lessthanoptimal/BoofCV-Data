@@ -1,2 +1,2 @@
-Sony HX5V:calibration/mono/Sony_DSC-HX5V_Chess/intrinsic.txt:structure/dist_cyto_01.jpg
+Sony HX5V:calibration/mono/Sony_DSC-HX5V_Chess/intrinsic.yaml:structure/dist_cyto_01.jpg
 BumbleBee2:calibration/stereo/Bumblebee2_Chess/intrinsicLeft.txt:calibration/stereo/Bumblebee2_Chess/left01.jpg

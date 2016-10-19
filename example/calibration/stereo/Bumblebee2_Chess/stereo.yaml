@@ -1,0 +1,48 @@
+# Intrinsic and extrinsic parameters for a stereo camera pair
+left:
+  pinhole:
+    fx: 524.6141554796689
+    fy: 526.9202267407102
+    cx: 312.4508572809385
+    cy: 247.40163214599613
+    width: 640
+    height: 480
+    skew: 0.0
+  model: pinhole_radial_tangential
+  radial_tangential:
+    radial:
+    - -0.3625365821238732
+    - 0.17532754393079863
+    t1: 0.0
+    t2: 0.0
+model: stereo_camera
+rightToLeft:
+  rotation:
+  - 0.9999694757041413
+  - -0.002167658916924345
+  - 0.007506591423858594
+  - 0.002144760822245101
+  - 0.9999930270271246
+  - 0.0030571061711613945
+  - -0.007513165844052039
+  - -0.003040913011953583
+  - 0.999967152054033
+  x: 120.04374261980637
+  y: 0.8974418603859871
+  z: -0.9149583203134171
+right:
+  pinhole:
+    fx: 526.437309515818
+    fy: 528.6524795626539
+    cx: 318.40405668073225
+    cy: 245.93504188705572
+    width: 640
+    height: 480
+    skew: 0.0
+  model: pinhole_radial_tangential
+  radial_tangential:
+    radial:
+    - -0.35299970494414057
+    - 0.16297446727663975
+    t1: 0.0
+    t2: 0.0
