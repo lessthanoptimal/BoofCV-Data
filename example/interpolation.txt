@@ -1,2 +1,0 @@
-Eye:eye01.jpg
-Sunflower:small_sunflower.jpg
