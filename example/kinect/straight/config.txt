@@ -1,3 +1,3 @@
-visualdepth.xml
+visualdepth.yaml
 rgb.mjpeg
 depth.mpng
