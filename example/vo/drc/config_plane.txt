@@ -1,2 +1,2 @@
-mono_plane.xml
+mono_plane.yaml
 left.mjpeg
