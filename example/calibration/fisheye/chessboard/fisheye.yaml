@@ -1,0 +1,23 @@
+# Omnidirectional camera model with radial and tangential distortion
+# C. Mei, and P. Rives. "Single view point omnidirectional camera calibration from planar grids."  ICRA 2007
+# (fx,fy) = focal length, (cx,cy) = principle point, (width,height) = image shape
+# mirror_offset = offset mirror along z-axis in unit circle
+# radial = radial distortion, (t1,t2) = tangential distortion
+
+pinhole:
+  fx: 398.77492706579216
+  fy: 398.7685638672075
+  cx: 319.17879590584187
+  cy: 319.71743712432686
+  width: 640
+  height: 720
+  skew: 0.0
+model: omnidirectional_universal
+radial_tangential:
+  radial:
+  - -0.24972089525362837
+  - 0.009672326567075125
+  t1: 0.0
+  t2: 0.0
+version: 0
+mirror_offset: 1.1331346732794045
