@@ -1,0 +1,20 @@
+# Pinhole camera model with radial and tangential distortion
+# (fx,fy) = focal length, (cx,cy) = principle point, (width,height) = image shape
+# radial = radial distortion, (t1,t2) = tangential distortion
+
+pinhole:
+  fx: 632.6331008160633
+  fy: 629.4057227776121
+  cx: 401.16829030891256
+  cy: 229.2684635210703
+  width: 800
+  height: 450
+  skew: 0.0
+model: pinhole_radial_tangential
+radial_tangential:
+  radial:
+  - 0.07946796807805329
+  - -0.1703344505939042
+  t1: 0.0
+  t2: 0.0
+version: 0
