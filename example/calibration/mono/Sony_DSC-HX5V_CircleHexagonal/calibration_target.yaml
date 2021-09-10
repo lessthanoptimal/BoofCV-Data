@@ -1,0 +1,10 @@
+# Serialized boofcv.alg.fiducial.calib.ConfigCalibrationTarget
+BoofCV.GIT_SHA: a9ab9041d1703a9c09c31999043382e870554729
+boofcv.alg.fiducial.calib.ConfigCalibrationTarget:
+  grid:
+    numRows: 24
+    shapeDistance: 1.2
+    shapeSize: 1.0
+    numCols: 28
+  type: !!boofcv.abst.fiducial.calib.CalibrationPatterns 'CIRCLE_HEXAGONAL'
+BoofCV.Version: 0.39-SNAPSHOT
