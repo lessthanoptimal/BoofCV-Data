@@ -1,0 +1,10 @@
+# Serialized boofcv.alg.fiducial.calib.ConfigCalibrationTarget
+BoofCV.GIT_SHA: 6e6f67a4f04914801862cfc45ad0234c0f9f5f7d
+boofcv.alg.fiducial.calib.ConfigCalibrationTarget:
+  ecocheck:
+    markerShapes:
+    - numRows: 10
+      squareSize: 1.0
+      numCols: 7
+  type: !!boofcv.abst.fiducial.calib.CalibrationPatterns 'ECOCHECK'
+BoofCV.Version: 0.39-SNAPSHOT
