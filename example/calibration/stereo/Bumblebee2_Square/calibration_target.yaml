@@ -6,5 +6,5 @@ boofcv.alg.fiducial.calib.ConfigCalibrationTarget:
     shapeDistance: 1.0
     shapeSize: 1.0
     numCols: 3
-  type: !!boofcv.abst.fiducial.calib.CalibrationPatterns 'SQUARE_GRID'
+  type: SQUARE_GRID
 BoofCV.Version: 0.39-SNAPSHOT

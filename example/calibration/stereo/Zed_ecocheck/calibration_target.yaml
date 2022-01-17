@@ -6,5 +6,5 @@ boofcv.alg.fiducial.calib.ConfigCalibrationTarget:
     - numRows: 10
       squareSize: 1.0
       numCols: 7
-  type: !!boofcv.abst.fiducial.calib.CalibrationPatterns 'ECOCHECK'
+  type: ECOCHECK
 BoofCV.Version: 0.39-SNAPSHOT

@@ -6,5 +6,5 @@ boofcv.alg.fiducial.calib.ConfigCalibrationTarget:
     shapeDistance: 1.2
     shapeSize: 1.0
     numCols: 28
-  type: !!boofcv.abst.fiducial.calib.CalibrationPatterns 'CIRCLE_HEXAGONAL'
+  type: CIRCLE_HEXAGONAL
 BoofCV.Version: 0.39-SNAPSHOT

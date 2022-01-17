@@ -6,5 +6,5 @@ boofcv.alg.fiducial.calib.ConfigCalibrationTarget:
     shapeDistance: 2.5
     shapeSize: 1.5
     numCols: 10
-  type: !!boofcv.abst.fiducial.calib.CalibrationPatterns 'CIRCLE_GRID'
+  type: CIRCLE_GRID
 BoofCV.Version: 0.39-SNAPSHOT
