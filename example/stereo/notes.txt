@@ -1,4 +1,4 @@
-The following images are uncalibrated and unrectified stereo images taken using a BumbleBee2 stereo camera.  Calibration parameters can be found in:
+The following images are uncalibrated and unrectified stereo images taken using a BumbleBee2 stereo camera. Calibration parameters can be found in:
 
 applet/calibration/stereo/Bumblebee2_Chess/
 
@@ -9,7 +9,7 @@ applet/calibration/stereo/Bumblebee2_Chess/
 - wall
 
 ---------------------------------------------------------
-These images were taken using a point and shoot camera.  No post processing has been done to the images but they do have known calibration parameters which can be found at:
+These images were taken using a point and shoot camera. No post-processing has been done to the images but they do have known calibration parameters which can be found at:
 
 applet/calibration/mono/Sony_DSC-HX5V_Chess/
 
